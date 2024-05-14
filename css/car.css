@@ -1,0 +1,42 @@
+body{
+    background-color:rgba(0, 0, 0, 0.212) ;
+    padding:0;
+    margin:0;
+    width:100%;
+    height:1000px;
+}
+h3{
+width: 700px;
+display:inline-block;
+padding:0 35px 35px 35px;
+}
+
+img{
+  display:inline;
+  width:500px;
+  height:300px;
+  border-right: #333 2px solid;
+  border-bottom: #333 2px solid;
+  border-radius: 5px;
+}
+h1{
+  padding: 35px 35px 0 35px;
+}
+button:hover{
+  background-color: brown;
+  color: aqua;
+}
+.btn-{
+  margin-left: 140px;
+  margin-right: 0;
+}
+
+.btn{
+  width: 300px;
+  height:30px;
+  justify-content: center;
+  background-color: aqua;
+  border-radius: 5px;
+  display:inline;
+  margin-bottom: 50px;
+}
